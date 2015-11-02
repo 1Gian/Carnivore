@@ -8,6 +8,7 @@ import android.os.Bundle;
  */
 public class splash extends Activity {
 
+
     @Override
 
     protected void onCreate(Bundle savedInstanceState) {
